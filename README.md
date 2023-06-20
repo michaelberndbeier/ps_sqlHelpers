@@ -38,6 +38,11 @@ sql-tst.ps1
 
 # Getting started
 
+## Add the *.ps1 files to your path
+
+Add the folder containing this scripts to your path or copy them to your existing tools folders etc.
+If you fancy you may join the development and add an installer :).
+
 ## Change your connection strings
 
 The files sql-dev.ps1, sql-int.ps1, sql-prod.ps1, sql-sup.ps1, sql-tst.ps1 need to be configured by you to match your system.
